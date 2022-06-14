@@ -38,7 +38,7 @@ resimekle=findViewById(R.id.resimekle);
 
 
 
-
+//profil resmin uzerine tiklariz
 ProfilResmi.setOnClickListener(new View.OnClickListener() {
     @Override
     public void onClick(View view) {
