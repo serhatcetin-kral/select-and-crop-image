@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "929454360603",
+    "project_id": "crop-and-select-picture",
+    "storage_bucket": "crop-and-select-picture.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929454360603:android:5f9abc2828410f5ba5d0be",
+        "android_client_info": {
+          "package_name": "com.example.cropimage2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929454360603-sh6sogqu7oi94urvrd99fvj0uj3mn4pk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByKEWief84OKF0ehRjcxVSVEnbZzvapVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929454360603-sh6sogqu7oi94urvrd99fvj0uj3mn4pk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
